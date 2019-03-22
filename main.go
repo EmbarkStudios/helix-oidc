@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"github.com/EmbarkStudios/src/tools/helix-p4d/helix-oidc/validate"
+	"github.com/EmbarkStudios/helix-oidc/validate"
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/alecthomas/kingpin.v2"
 )

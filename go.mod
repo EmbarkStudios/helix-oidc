@@ -1,4 +1,4 @@
-module github.com/EmbarkStudios/src/tools/helix-p4d/helix-oidc
+module github.com/EmbarkStudios/helix-oidc
 
 go 1.12
 
